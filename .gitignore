@@ -2,3 +2,4 @@
 *.safetensors
 outputs/
 grpo_saved_lora/
+unsloth_compiled_cache/
